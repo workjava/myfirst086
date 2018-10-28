@@ -4,4 +4,4 @@ Git is free software distributed under the GPL.
 git管理修改测试-追加
 to work svn
 提交仓库成功了
-fenzhi add new file
+fenzhi add new file add fenzhi
